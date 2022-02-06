@@ -1,0 +1,56 @@
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#headlines{     
+    .cards{
+        a{
+            img{
+                height: 200px;
+            }
+            p{
+                color: black;
+            }
+        }
+    }
+}
+section{
+    
+    height:1000px;
+    
+}
+ul{
+    color: black;
+    padding-left: 0px;
+    li{        
+    padding-right:48px;
+    }
+}
+.slider{
+    .slider-scroll{
+       
+    }
+    overflow: hidden !important;   
+    overflow-x: auto;
+    
+    
+}
+.head{
+    .icons{
+        #left-icon{
+            border: none;
+            margin-top: 10px;
+            color: rgb(161, 245, 245);
+
+        }
+        #right-icon{
+            border: none;
+            margin-top: 10px;
+            color: rgb(149, 240, 240);
+
+        }
+    }
+}
